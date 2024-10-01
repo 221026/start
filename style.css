@@ -1,0 +1,25 @@
+.main{
+	height: 850px;
+	width: 100%;
+	background-color: green;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 15px;
+}
+.box{
+	height: 400px;
+	width: 400px;
+	background-color: whitesmoke;
+	border-radius: 20px;
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+
+a{
+	margin-left: 170px;
+}
+
+
